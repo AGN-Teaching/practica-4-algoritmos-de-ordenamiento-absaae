@@ -45,7 +45,7 @@ Para poder realizarlo hay que tener en cuenta el funcionamiento de los cinco alg
 
 # Análisis de datos
 Para realizar el análisis ocuparemos el tiempo promedio y la desviación estándar. Estos datos proporcionan una visión de la estabilidad y consistencia de cada algoritmo, destacando posibles tendencias o patrones que pueden influir en su rendimiento.  
-Para obtenerlos, se realizar múltiples repeticiones de cada algoritmo de ordenamiento para diferentes tamaños de arreglos. Durante cada repetición, se registra el tiempo de ejecución. Luego, para calcular el *tiempo promedio*, se suman todos los teimpos registrados y se dividen por el número total de repeticiones. Este proceso **proporciona una medida central representativa del rendimiento del algoritmo**.  
+Para obtenerlos, se realizan múltiples repeticiones de cada algoritmo de ordenamiento para diferentes tamaños de arreglos. Durante cada repetición, se registra el tiempo de ejecución. Luego, para calcular el *tiempo promedio*, se suman todos los tiempos registrados y se dividen por el número total de repeticiones. Este proceso **proporciona una medida central representativa del rendimiento del algoritmo**.  
 
 La *desviación estándar* se calcula en relación con el tiempo promedio. Después de obtener la medida de los tiempos, se calculan las diferencias cuadráticas entre cada tiempo individual y la media. Estos cuadrados de las diferencias se suman y se dividen por el número total de repeticiones. La raíz cuadrada del resultado proporciona la desviación estándar, **que indica la dispersión de los tiempos respecto a la media**.  
 
