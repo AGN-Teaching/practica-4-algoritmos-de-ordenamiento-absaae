@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ke8zCzPd)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13588008)
 # Práctica 4: Algoritmos de ordenamiento
 
 # Introducción
@@ -45,5 +43,99 @@ Para poder realizarlo hay que tener en cuenta el funcionamiento de los cinco alg
   ![quicksort](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/96e9dd07-ce2f-4d4b-9cc8-4eeb82938fc7)
 
 
+# Análisis de datos
+De acuerdo a los resultados obtenidos, tanto los tiempos de ejecución y la desviación estandar varían para cada repetición y algoritmo. Estos datos proporcionan una visión de la estabilidad y consistencia de cada algoritmo, destacando posibles tendencias o patrones que pueden influir en su rendimiento.  
+Para cada tamaño de arreglo(**n**), el número de repeticiones(**m**) que se utilizó fueron **30**, esto para obtener estadísticas más confiables. 
+
+## Gráficas de cada caso
+Entonces, en las siguientes tablas podemos observar los tiempos de ejecución y la desviación estandar de cada arreglo: 
+
+- m=30 n=5
+  ![arreglo 5](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/60969217-f71e-417d-a3bb-53cbeadd33f8)
+
+  En términos de timepo promedio, los algortimso se ordenan de manera: **Merge sort> Quicsort > Bubblesort > Insertion sort > Selection sort**.  
+  La desviación estandar sugiere que los tiempos de ejecución son bastante consistentes en todas las repeticiones para cada algoritmo.
+
+- m=30 n=10
+  ![arreglo 10](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/33423612-eb05-4b14-bea5-d583e3ce2892)
+
+  Para este **Quicksort** muestra el tiempo promedio más bajo, seguido por **Insertion sort, selection sort, bubble sort y merge sort**.
+  **Insertion sort tiene la desviación estandar más baja, indicando mayor estabilidad en los tiempos de ejecución.
+
+- m=30 n=50
+  ![arreglo 50](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/00745298-694d-4e76-9d0f-51a7cf979f82)
+
+  Tanto **Quicksort** como **Merge Sort** son consistentes en sus tiempos de ejecución. La elección de usos de cada uno puede depender de otras cosas como el espacio de memoria.
+  **Bubble sort** tiene una desviación relativamente alta, por lo que indica variabilidad en los tiempos de ejecución.
+
+- m=30 n=100
+  ![arreglo 100](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/359b20cd-5bd0-4f23-a158-f6ad62dbb8e6)
+
+  Tanto **Quicksort** como **Insertion Sort** son consistentes en sus tiempos de ejecución a diferencia de **Bubble sort** el cual muestra una variabilidad en sus tiempos de ejecución, lo que sugiere que puede ser menos predecible.
+
+- m=30 n=500
+  ![arreglo 500](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/ab02cee8-5cfb-4003-b1c6-0a17ff42ac40)
+
+  Sugieren que el algoritmo más eficiente en términos de tiempo promedio es **Quicksort**, seguido de **Merge sort**. Los algoritmos de **Bubble, Insertion** y **Selection sort** tienen tiempos promedio significativamente mayores.
+
+- m=30 n= 10^3 
+  ![arreglo 1000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/9d388c93-d729-4d37-9d5e-872991249ca9)
+
+  Indican que **Quicksort** es el algortimo más eficiente en términos de tiempo de ejecución promedio, seguido por **Merge sort** e **Insertion sort**. **Bubble sort** y **Selection sort** tienen tiempos promedio más altos.
+
+- m=30 n= 5x10^3
+  ![arreglo 5000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/20677d8c-b6a1-4188-bbea-454a80b1c0fc)
+
+  En este caso, **Quicksort y Merge sort** son opciones sólidas, con **Quicksort** siendo ligeramente más eficiente en este escenario específico. **Bubble sort** es cocnsiderablemente más lento, teniendo a **Insertion sort y Selection sort** de opción intermedia.
+
+- m=30 n= 10^4
+  ![arreglo 10000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/54da514b-bcdd-42c3-afa9-87d456e40cbc)
+
+  **Quicksort** sigue siendo la opción preferida en términos de eficiencia y consistencia, junto con **Merge sort**. **Bubble sort**, por otro lado, es menos eficiente.
+
+- m=30 n= 5x10^4
+  ![arreglo 50000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/f4f122f9-ebed-47e6-a065-ef8493dfbe3a)
+
+
+- m=30 n= 10^5
+  ![arreglo 100000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/c60739c5-e7a7-4150-8f04-de5fe3d759ea)
+
+  En promedio, **Merge sort** es el algoritmo más eficiente, seguido de **Quicksort**. Sin embargo, **Bubble sort** muestra un rendimiendo significativamente bajo en comparación con los otros algoritmos.
+
+Debido a estos datos podemos decir que, para arreglos grandes los algoritmos que mejor trabajan son **Merge sort** y **Quicksort** por lo que, proseguiremos con esos, de lo contrario, el tiempo de ejecución de cada caso sería muy extenso, lo cual, queremos evitar: 
+
+- m=30 n= 5x10^5
+  ![arreglo 500000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/9043fc25-7996-4457-ba3f-cdf24b98eae3)
+
+
+- m=30 n= 10^6
+  ![arreglo 1000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/b2d14861-a275-4815-8741-f8561d4eee32)
+
+- m=30 n= 5x10^6
+  ![arreglo 5000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/ceaf34dc-fe5d-41fa-bc27-a3142a041a74)
+
+- m=30 n= 10^7
+  ![arreglo 10000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/27fe4829-3d7d-42be-9eb2-d71371a6e3b5)
+
+- m=30 n= 5x10^7
+  ![arreglo 50000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/e19bebe7-72b3-4ad5-b8d0-264722877e6a)
+
+- m=30 n= 10^8
+  ![arreglo 100000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/18fcf206-87eb-4f2f-8e48-f2de6e19e038)
+
+
+
+
 
   
+
+
+  
+
+
+
+
+
+
+
+
