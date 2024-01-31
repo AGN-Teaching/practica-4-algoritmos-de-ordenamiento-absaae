@@ -1,0 +1,256 @@
+Ingrese el tamanio del arreglo: 500
+Ingrese el numero de repeticiones: 30
+Ingrese la lista de algoritmos (m para Merge Sort, q para Quicksort, i para Merge Sort con Insertion Sort, b para bubblesort, n insertion short, s para selection sort): mqbns
+*** REPETICION 1 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.622e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 7.1123e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.29e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000427998s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000115405s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000318214s
+
+*** REPETICION 2 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.403e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.7366e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.1037e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000522614s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000181196s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000326298s
+
+*** REPETICION 3 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.142e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 5.9882e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.264e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000454748s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000118832s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000215662s
+
+*** REPETICION 4 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.242e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 5.8299e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2109e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000478352s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000119303s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000214039s
+
+*** REPETICION 5 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.232e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.5132e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2279e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000559053s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000130333s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000215502s
+
+*** REPETICION 6 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.281e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.3258e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.3812e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000446553s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000118942s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000242673s
+
+*** REPETICION 7 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.622e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2457e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2158e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000452895s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000127879s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000216864s
+
+*** REPETICION 8 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.432e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.0703e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.4473e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000435042s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000116768s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000214049s
+
+*** REPETICION 9 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.372e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.925e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0596e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000469456s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000121005s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.00030069s
+
+*** REPETICION 10 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.642e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2637e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2479e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000555687s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.00011835s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000218637s
+
+*** REPETICION 11 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.402e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2587e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2349e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000440221s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000120275s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000213518s
+
+*** REPETICION 12 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.462e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.3388e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0656e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.00044489s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000122428s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000216213s
+
+*** REPETICION 13 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.302e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.0563e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.3802e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000458215s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000156302s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000249656s
+
+*** REPETICION 14 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.322e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2426e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0796e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000462142s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000168464s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000348801s
+
+*** REPETICION 15 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.332e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.7586e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0756e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000444088s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000122679s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000214991s
+
+*** REPETICION 16 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.342e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2647e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2409e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.00044493s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000118201s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.0002143s
+
+*** REPETICION 17 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.372e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2497e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0916e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000441624s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000122348s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000216334s
+
+*** REPETICION 18 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.251e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 5.9892e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.1628e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000640184s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000161672s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000347859s
+
+*** REPETICION 19 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.382e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 7.0591e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.7188e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000651636s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000159768s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000326409s
+
+*** REPETICION 20 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.222e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.7225e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.4363e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000662776s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000154478s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000304327s
+
+*** REPETICION 21 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.352e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2577e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.5595e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000451011s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000125574s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.00021455s
+
+*** REPETICION 22 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.613e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.2637e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.335e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000437626s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000118341s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000213769s
+
+*** REPETICION 23 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.352e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.1836e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.1978e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000435632s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000118881s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000214971s
+
+*** REPETICION 24 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.562e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.0373e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.1357e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000512075s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.00012897s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000218528s
+
+*** REPETICION 25 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.311e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.0714e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.28e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000598155s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000120746s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000212517s
+
+*** REPETICION 26 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.712e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.0543e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0726e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000529135s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000127238s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000215772s
+
+*** REPETICION 27 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.392e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 5.9411e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.294e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000447515s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000136946s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000217355s
+
+*** REPETICION 28 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.222e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.1595e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2248e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.00043956s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000116657s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000233977s
+
+*** REPETICION 29 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.613e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.961e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.2269e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.000474796s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000126516s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.000281004s
+
+*** REPETICION 30 ***
+Creando arreglo aleatorio de tamanio 500...     Creado.         Tiempo: 6.512e-06s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 6.1214e-05s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 4.0615e-05s
+Iniciando ordenamiento con bubblesort...        Ordenado.       Tiempo: 0.00072893s
+Iniciando ordenamiento con insertion short...   Ordenado.       Tiempo: 0.000125214s
+Iniciando ordenamiento con selection short...   Ordenado.       Tiempo: 0.0002145s
+
+*** TIEMPO PROMEDIO ***
+Merge sort:     6.3334e-05
+Quicksort:      4.24408e-05
+Bubblesort:     0.000498251
+Insertion sort: 0.000130657
+Selection sort: 0.000245733
+
+*** Desviación Estándar ***
+Merge sort:     5.87368e-06
+Quicksort:      6.14018e-06
+Bubblesort:     8.87426e-05
+Insertion sort: 9.92284e-06
+Selection sort: 0.000114921

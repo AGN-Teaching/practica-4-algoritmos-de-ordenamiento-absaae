@@ -1,0 +1,160 @@
+Ingrese el tamanio del arreglo: 50000000
+Ingrese el numero de repeticiones: 30
+Ingrese la lista de algoritmos (m para Merge Sort, q para Quicksort, i para Merge Sort con Insertion Sort, b para bubblesort, n insertion short, s para selection sort): mq
+*** REPETICION 1 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.442956s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.6362s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.78678s
+
+*** REPETICION 2 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.497254s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.5655s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.66915s
+
+*** REPETICION 3 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.379843s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3722s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.71557s
+
+*** REPETICION 4 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.38224s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.5361s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.60884s
+
+*** REPETICION 5 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.383714s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3479s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.57164s
+
+*** REPETICION 6 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.385304s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4046s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.64997s
+
+*** REPETICION 7 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.510666s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3946s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.93692s
+
+*** REPETICION 8 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.377501s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3486s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.9856s
+
+*** REPETICION 9 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.40576s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.543s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.65139s
+
+*** REPETICION 10 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.410781s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3624s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.63767s
+
+*** REPETICION 11 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.387105s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4276s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.83518s
+
+*** REPETICION 12 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.437486s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4259s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.67428s
+
+*** REPETICION 13 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.379224s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3846s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.66791s
+
+*** REPETICION 14 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.384912s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4043s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.75218s
+
+*** REPETICION 15 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.380674s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.377s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.75038s
+
+*** REPETICION 16 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.405242s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4624s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.54286s
+
+*** REPETICION 17 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.575993s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4999s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.92053s
+
+*** REPETICION 18 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.411945s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.2722s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.62303s
+
+*** REPETICION 19 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.399587s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.2787s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.74733s
+
+*** REPETICION 20 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.387309s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3116s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.86323s
+
+*** REPETICION 21 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.378743s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4359s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.63954s
+
+*** REPETICION 22 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.378366s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3966s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.7299s
+
+*** REPETICION 23 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.38708s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.408s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 10.093s
+
+*** REPETICION 24 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.381401s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3289s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.67556s
+
+*** REPETICION 25 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.423948s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4023s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.73452s
+
+*** REPETICION 26 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.377412s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.4302s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.88741s
+
+*** REPETICION 27 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.387447s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.2812s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.82033s
+
+*** REPETICION 28 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.382425s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.53s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.52594s
+
+*** REPETICION 29 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.377472s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.3004s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.66653s
+
+*** REPETICION 30 ***
+Creando arreglo aleatorio de tamanio 50000000...        Creado.         Tiempo: 0.380836s
+Iniciando ordenamiento con MERGE SORT...        Ordenado.       Tiempo: 12.419s
+Iniciando ordenamiento con QUICKSORT...         Ordenado.       Tiempo: 9.72479s
+
+*** TIEMPO PROMEDIO ***
+Merge sort:     12.4096
+Quicksort:      9.73627
+
+*** DESVIACION ESTANDAR***
+Merge sort: 0.1223 s
+Quicksort:  0.1102 s
