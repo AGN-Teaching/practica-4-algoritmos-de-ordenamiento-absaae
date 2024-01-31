@@ -172,3 +172,5 @@ En términos de eficiencia, tanto como **Quicksort** como **Merge sort** se dest
 En contraste, *Bubble sort, Insertion sort, y selection sort*, son más adecuados para conjuntos de datos pequeños, pues su escalabilidad es muy poca, resultando en tiempos de ejecución muy, muy altos. Entonces, estos son más adecuados para ese tipo de conjuntos donde la simplicidad y facilidad de implementación pueden superar sus limitaciones de rendimiento en comparación con algoritmos más complejos.  
 
 En última instancia, la elección del algoritmo de ordenamiento dependerá de diversos factores, como el tamaño del conjunto de datos, la complejidad del algoritmo y la naturaleza de la aplicación. La comprensión de estos permitirá tomar una mejor decisión para lograr un equilibrio entre rendimiento y simplicidad en la implementación.
+
+PD. Si gusta revisar la salida de cada arreglo, se subieron los .txt en una carpeta a los archivos del repositorio (datos_salida).
