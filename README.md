@@ -59,7 +59,7 @@ Entonces, en las siguientes tablas podemos observar los tiempos de ejecución y 
 - **m=30 n=5**
   ![arreglo 5](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/60969217-f71e-417d-a3bb-53cbeadd33f8)
 
-  En términos de timepo promedio, los algortimso se ordenan de manera: **Merge sort> Quicsort > Bubblesort > Insertion sort > Selection sort**.  
+  En términos de timepo promedio, los algortimso se ordenan de manera: **Merge sort> Quicksort > Bubblesort > Insertion sort > Selection sort**.  
   La desviación estandar sugiere que los tiempos de ejecución son bastante consistentes en todas las repeticiones para cada algoritmo.
 
 - **m=30 n=10**
@@ -131,10 +131,9 @@ Debido a estos datos podemos decir que, para arreglos grandes los algoritmos que
   ![arreglo 100000000](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/18fcf206-87eb-4f2f-8e48-f2de6e19e038)
 
 - **m=30 n= 5x10^8**
-  h
 
 - **m=30 n= 10^9**
-  h
+
 
 ## Gráficas generales  
 
@@ -164,3 +163,8 @@ En algunos casos(por ejempo, para arreglos de tamaño 5x10^4 y 10^5), la desviac
 A partir de arreglos de tamaño 5x10^5 y más allá, tanto **Quicksort** como **Merge sort** tienen desviaciones estándar constantes.
 
 En resumen, estos resultados sugieren que **Merge sort** tiende a ser más consistente y predecible en términos de tiempo de ejecución, especialmente a medida que el tamaño del arreglo aumenta. **Quicksort** puede mostrar una mayor variabilidad en algunos casos, pero aún así, es eficiente para arreglos pequeños y medianos. 
+
+# Conclusiones
+
+Primeramente, tomando en cuenta los resultados anteriores (y la salud de mi computadora), decidí no continuar con los últimos dos arreglos más grandes debido a su posible impacto en los tiempos de ejecución y la capacidad del sistema. 
+En términos de eficiencia, tanto como **Quicksort** como **Merge sort** se destacan como opciones preferibles para tamaños de arreglo considerables; como se mencionó en los análisis de gráficas, *Quicksort* tiende a ser más rápido en arreglos pequeños y medianos, pues se observó que los tiene los tiempos de ejecución más bajos en comparación con los demás algoritmos evaluados; mientras que *Merge sort* muestra unsa escalabilidad más consistente para arreglos grandes, pues tiene una escalabilidad más consistente, manteniendo tiempos de ejecución predecibles a medida que aumenta el tamaño.   Además, *Bubble sort, Insertion sort, y selection sort*, son más adecuados para conjuntos de datos pequeños, pues su escalabilidad es muy poca, resultando en tiempos de ejecución muy, muy altos. Entonces, estos son más adecuados para ese tipo de conjuntos donde la simplicidad y facilidad de implementación pueden superar sus limitaciones de rendimiento en comparación con algoritmos más complejos.
