@@ -137,9 +137,20 @@ Debido a estos datos podemos decir que, para arreglos grandes los algoritmos que
 
 ## Gráficas generales  
 
-Como los algoritmos **Quicksort** y **Merge sort** registraron mejores tiempos, trabajaremos con los resultados que nos dieron:
+Ahora, analizaremos los resultadaos que obtuvimos, vamos a separarlos en todos los algoritmos, y después en los dos con mejor rendimiento.
 
-### Tiempo promedio  
+### Tiempo promedio
+
+#### Todos los algoritmos
+
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/a3354bbb-399e-4b86-a9e7-f2fa75f15040)
+
+Tanto *Quicksort* como *Merge sort* muestran un rendimiento sólido en todos los tamaños de datos, manteniéndose eficientes y siguiente la complejidad teórica esperada de **O(n log n)**. Por otro lado, *Insertion sort* y *Selection sort* son eficaces para conjuntos de datos pequeños, pero su rendimiento decae rápidamente a medida que aumenta el tamaño del conjunto, lo cual se alinea con la teoría **O(n^2)**.  
+*Bubble sort*, por otro lado, presenta el rendimiento más deficiente en todos los casos, siendo particularmente ineficiente para conjuntos de datos generales. 
+
+
+#### Quicksort y Merge Sort
+
 
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/8c1f63e6-3759-41ce-95ff-a1b2e4b1621d)
 
@@ -151,6 +162,19 @@ Para **arreglos grandes**, a medida que el tamaño del arreglo aumenta, *Merge s
 En general, estos resultados son consistentes con las características conocidas de ambos algoritmos. **Quicksort** es conocido por su eficiencia en arreglos pequeños y medianos, mientras que **Merge sort** es más consistente y eficiente para arreglos grandes.
 
 ### Desviación estándar
+
+#### Todos los algoritmos
+
+![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/7729e9b1-4f3f-432f-a563-af53aca36791)
+
+Al analizar los resultados, observamos que *Quicksort* y *Merge sort* exhiben desviaciones estándar relativamente bajas en todos los tamaños de datos, lo que suigiere una consistencia y previsibilidad en sus tiempos de ejecución.  
+
+Por otro lado, algoritmos como *Insertion sort* y *Selection sort* pueden mostrar desviaciones estándar más bajas para conjuntos de datos pequeños, pero tienden a volverse más variables a medida que crece el tamaño de los datos. Esto indica que la eficiencia de estos algoritmos puede depender significativamente del tamaño específico del conjunto de datos.  
+
+*Bubble sort*, siendo generalmente ineficiente en términos de tiempo de ejecución, presenta desviaciones estándar más altas en comparación con *Quicksort* y *Merge sort*. Esto sugiere una mayor variabilidad en los tiempos de ejecución, por lo que afecta negativamente la previsibilidad de rendimiento.
+
+
+#### Quicksort y Merge sort
 
 ![image](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-absaae/assets/125155934/fe3ef48d-a494-4801-9d62-e4f2e5115eea)
 
